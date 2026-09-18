@@ -77,6 +77,7 @@ Each question is answered using pandas filtering, grouping, and string operation
 - Replace static `.plot(kind="bar")` calls with more polished visualizations (e.g., Seaborn/Plotly) with titles, labels, and consistent styling.
 - Add a summary dashboard consolidating all Q&A insights into a single visual report.
 
-## 📝 License
+## 📬 Connect
 
-This project is intended for educational and portfolio purposes.
+If you found this useful or have feedback, feel free to connect with me on [LinkedIn]() or check out my other projects on [GitHub](https://github.com/Niranjansivakumar66?tab=repositories).
+
